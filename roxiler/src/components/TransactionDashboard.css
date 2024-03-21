@@ -1,0 +1,178 @@
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  
+    
+  }
+  
+  th, td {
+    padding: 4px;
+    text-align: left;
+    border-bottom: 2px solid #bfbcbc;
+  }
+  
+  th {
+    /* background-color:  rgb(190, 213, 227); */
+    background-color: rgb(241, 209, 168);
+  }
+  
+  td img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .pagination button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
+.dashboard-container {
+    text-align: center;
+    border: 4px solid;
+    background-color:  rgb(226, 239, 247);
+    padding: 50px;
+  }
+  
+  .dashboard-header {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .dashboard-header .search-input{
+    flex: 1;
+    margin-right: 10px;
+  }
+  .dashboard-header{
+    border: solid;
+    justify-content: center;
+    border-radius: 50px;
+    margin: 1px;
+    margin-bottom: 25px;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top: 25px;
+    background-color: rgb(241, 204, 155);
+  }
+  
+  .dashboard-header .select-month-dropdown {
+    flex: 0;
+  }
+  
+  .search-input{
+    text-align: center;
+    background-color:  antiquewhite;
+    color:black ;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+
+  }
+
+  .select-month{
+    background-color: antiquewhite;
+    font-size: small;
+    padding: 10px;
+    
+  }
+
+  /* style={{ marginBottom: '10px', display: 'flex', justifyContent: 'flex-end' }} */
+
+
+  .transactions-table {
+    margin-bottom: 20px;
+  }
+  
+  .transactions-table table {
+    width: 80%;
+    border-collapse: collapse;
+  }
+  
+  .transactions-table th,
+  .transactions-table td {
+    border: 1px solid #ddd;
+    padding: 6px;
+    text-align: left;
+  }
+  
+  .transactions-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .pagination {
+    margin-top: 10px;
+  }
+  
+  .pagination button {
+    padding: 5px 10px;
+    margin-right: 5px;
+    cursor: pointer;
+  }
+  .transactions-statistics {
+    margin-bottom: 20px;
+  }
+  
+  .transactions-statistics p {
+    margin: 5px 0;
+  }
+  .transactions-bar-chart {
+    margin-bottom: 20px;
+  }
+  .dashboard {
+    padding: 20px;
+  }
+        
+  .statistic{
+    width: fit-content;
+    padding: 5px;
+    margin: auto;
+    align-items: center;
+  }
+
+  /* barChart.css */
+
+.bar-chart-container {
+  margin-top: 20px;
+}
+
+.price-range-item {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+.price-range {
+  font-weight: bold;
+}
+
+.count {
+  margin-left: 10px;
+  color: #777;
+}
+
+.stdata{
+  border: solid;
+  border-radius: 50px;
+  padding:1px;
+  width: 28%;
+  margin: auto;
+  margin-top: 15px;
+  background-color: antiquewhite
+}
+
+
+
+
+
+
+
+
+
