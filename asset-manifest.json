@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/roxiler-systems--project/static/css/main.51ee5223.css",
-    "main.js": "/roxiler-systems--project/static/js/main.e4e5bb5d.js",
-    "static/js/453.5f9fbac8.chunk.js": "/roxiler-systems--project/static/js/453.5f9fbac8.chunk.js",
-    "index.html": "/roxiler-systems--project/index.html",
-    "main.51ee5223.css.map": "/roxiler-systems--project/static/css/main.51ee5223.css.map",
-    "main.e4e5bb5d.js.map": "/roxiler-systems--project/static/js/main.e4e5bb5d.js.map",
-    "453.5f9fbac8.chunk.js.map": "/roxiler-systems--project/static/js/453.5f9fbac8.chunk.js.map"
+    "main.css": "/shivkanyawaghmare.github.io/roxiler-systems--project/static/css/main.51ee5223.css",
+    "main.js": "/shivkanyawaghmare.github.io/roxiler-systems--project/static/js/main.abe40928.js",
+    "static/js/453.5f9fbac8.chunk.js": "/shivkanyawaghmare.github.io/roxiler-systems--project/static/js/453.5f9fbac8.chunk.js",
+    "index.html": "/shivkanyawaghmare.github.io/roxiler-systems--project/index.html",
+    "main.51ee5223.css.map": "/shivkanyawaghmare.github.io/roxiler-systems--project/static/css/main.51ee5223.css.map",
+    "main.abe40928.js.map": "/shivkanyawaghmare.github.io/roxiler-systems--project/static/js/main.abe40928.js.map",
+    "453.5f9fbac8.chunk.js.map": "/shivkanyawaghmare.github.io/roxiler-systems--project/static/js/453.5f9fbac8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51ee5223.css",
-    "static/js/main.e4e5bb5d.js"
+    "static/js/main.abe40928.js"
   ]
 }
